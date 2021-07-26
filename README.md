@@ -7,7 +7,7 @@
 🌱 Now I train and improve my skills in web technologies
 <!-- - 📫 How to reach me: ... -->
 
-### 🛠 My scills
+### 🛠 My skills
 
 ![HTML](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=CSS3&logoColor=007ACC)
