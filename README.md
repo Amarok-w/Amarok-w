@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Amarok-w/Amarok-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello! I'm Vadim, beginner front-end developer
 
-Here are some ideas to get you started:
+### 💬 About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently studying in college at the database administrator \
+🌱 Now I train and improve my skills in web technologies
+<!-- - 📫 How to reach me: ... -->
+
+### 🛠 My scills
+
+![HTML](https://img.shields.io/badge/HTML-1E1E1E?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1E1E1E?style=for-the-badge&logo=CSS3&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript) \
+![Git](https://img.shields.io/badge/git-1E1E1E?style=for-the-badge&logo=git)
+![VSC](https://img.shields.io/badge/VSCode-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Photoshop](https://img.shields.io/badge/Photoshop-1E1E1E?style=for-the-badge&logo=adobe-photoshop)
+
