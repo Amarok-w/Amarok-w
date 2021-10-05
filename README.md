@@ -14,5 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript) \
 ![Git](https://img.shields.io/badge/git-1E1E1E?style=for-the-badge&logo=git)
 ![VSC](https://img.shields.io/badge/VSCode-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Photoshop](https://img.shields.io/badge/Photoshop-1E1E1E?style=for-the-badge&logo=adobe-photoshop)
 
