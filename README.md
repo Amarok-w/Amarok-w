@@ -1,10 +1,10 @@
 
-# 👋 Hello! I'm Vadim, beginner front-end developer
+# Hello! I'm Vadim, beginner front-end developer
 
 ### 💬 About me 
 
-🎓 I'm currently studying in college at the database administrator \
-🌱 Now I train and improve my skills in web technologies
+ I'm currently studying in college at the database administrator \
+ Now I train and improve my skills in web technologies
 <!-- - 📫 How to reach me: ... -->
 
 ### 🛠 My skills
